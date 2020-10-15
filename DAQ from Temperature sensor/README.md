@@ -2,6 +2,8 @@
 
 The MLX90614 is an Infra Red thermometer for noncontact temperature measurements. Both the IR sensitive thermopile detector chip and the signal conditioning ASSP are integrated in the same TO-39 can.
 
+![download (2)](https://user-images.githubusercontent.com/64604283/96120805-bd9ae000-0f0c-11eb-95f3-059daa3e153f.jpg)
+
 ## Connections :
 
 1. Connect GND to common power/data ground
