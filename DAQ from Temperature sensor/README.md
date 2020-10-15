@@ -13,7 +13,7 @@ The MLX90614 is an Infra Red thermometer for noncontact temperature measurements
 
 **MLX90614 needs necessary library file to communicate with it. We have to include "Adafruit_MLX90614" library on our arduino IDE.**
 
-## Follow the steps to include those library :
+## Follow the steps to include the library :
 
 1. Open Arduino IDE
 2. Navigate to the "Sketch" tab, and click on "include library".
